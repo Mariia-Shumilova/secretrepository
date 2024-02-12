@@ -1,5 +1,5 @@
 function valentinePage() {
-    window.location.href = "index.html";
+    window.location.href = "valentine.html";
 }
 
 function noPage() {
